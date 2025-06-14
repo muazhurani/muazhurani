@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Muaz Hurani<br>I'm a Frontend Engineer & UI/UX Designer with a strong eye for aesthetics and a passion for building clean, functional interfaces. Currently focused on building fast, minimal digital products — from idea to execution.<br><br>🎓 B.Sc. Software Engineering @ BTH | Prev: Intern @ Softhouse AB, Nexer Group<br><br>🎨 Design meets code: React, Next.js, Tailwind, Firebase, Figma, Adobe Suite<br><br>⚙️ I like solving problems that blend engineering logic with design clarity<br><br>Building with intention. Designing with purpose. Shipping fast.
+👋 Hi, I’m Muaz Hurani<br>I'm a Frontend Engineer & UI/UX Designer with a strong eye for aesthetics and a passion for building clean, functional interfaces. Currently focused on building fast, minimal digital products from idea to execution.<br><br>🎓 B.Sc. Software Engineering @ BTH | Prev: Intern @ Softhouse AB, Nexer Group<br><br>🎨 Design meets code: React, Next.js, Tailwind, Firebase, Figma, Adobe Suite<br><br>⚙️ I like solving problems that blend engineering logic with design clarity<br><br>Building with intention. Designing with purpose. Shipping fast.
 
 
 ## 🌐 Socials:
